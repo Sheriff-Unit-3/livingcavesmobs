@@ -100,7 +100,7 @@ mobs:spawn({
 })
 end
 
-mobs:register_egg("livingcavesmobs:yeti", ("Yeti"), "ayeti.png")
+mobs:register_egg("livingcavesmobs:yeti", S("Yeti"), "ayeti.png")
 
 mobs:register_arrow("livingcavesmobs:iceball", {
 	visual = "sprite",
